@@ -7,7 +7,7 @@ The app helps farmers understand what crops to plant, which seeds to use, common
 ## Author
 
 Created by **Rashid Mussa**  
-Founder of Tembo Labs & Tuna Finance Hub  
+Founder of Tembo Labs & TalkNa
 Tanzania
 
 ## Vision
@@ -287,4 +287,4 @@ For collaboration, contribution, or partnership:
 
 **Rashid Mussa**  
 Tanzania  
-Founder, Tembo Labs
+Founder, TalkNa
